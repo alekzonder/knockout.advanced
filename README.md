@@ -6,6 +6,6 @@ some advanced knockout.js functions
 
  By default, in knockout.js with mapping plugin, if you want update models with ajax, first you must initialize model data for bindings on page.
 
-createObservableIfNotExists create undefined params and when you get data from server and apply it with ko.mapping.fromJS, all bindings work.
+ createObservableIfNotExists create undefined params and when you get data from server and apply it with ko.mapping.fromJS, all bindings work.
 
 Example: http://jsfiddle.net/alekzonder/xyDmQ/
